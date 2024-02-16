@@ -176,7 +176,7 @@
    }
   }
      /* Styles for screens larger than 1200px wide */ 
-     @media (min-width: 800px) and (max-width: 1300px) {
+     @media (min-width: 800px) and (max-width: 1000px) {
   .navbar{
     height: 100%;
   }
